@@ -1,4 +1,4 @@
-### Interactive Mobile Dashboard using D3 and Cordova ###
+### Interactive Dashboard using D3 and Cordova ###
 
 To run in your browser:
 
